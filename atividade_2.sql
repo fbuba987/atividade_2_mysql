@@ -1,6 +1,3 @@
-
-
-
 create database db_curso_da_minha_vida;
 
 use db_curso_da_minha_vida;
